@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'D:\\TestLabGit\\POC_COPPEL\\PoC_APK_V2\\Res1',namePairs:[]}]};
